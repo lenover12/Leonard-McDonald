@@ -77,4 +77,4 @@ Agile Methodologies · Scrum · Waterfall
 ## 📬 Contact Me
 
 Feel free to reach out via [Email](mailto:lennymcdonald247@hotmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/leonard-mcdonald).
-Check out my portfolio website [Here](https://www.github.com)
+Check out my portfolio website [Here](https://lenover12.github.io/portfolio/)
