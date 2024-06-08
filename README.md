@@ -5,12 +5,6 @@ Hi, I'm Leonard McDonald 👨‍💻, a recent graduate with a Bachelor of Infor
 
 ## 💻 Technologies & Skills
 
-# Welcome to My GitHub! 👋
-
-Hi, I'm Leonard McDonald 👨‍💻, a recent graduate with a Bachelor of Information Technology from RMIT (via OUA) in February 2024. I am passionate about software development and all aspects of tech, and I aspire to use new skills and technology in my personal projects.
-
-## 💻 Technologies & Skills
-
 <details open>
   <summary>Programming Languages:</summary>
   <ul>
